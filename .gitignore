@@ -47,7 +47,7 @@ node_modules/
 
 # Composer
 /vendor
-/composer.lock
+#/composer.lock
 /composer.json
 /composer.local.json
 
